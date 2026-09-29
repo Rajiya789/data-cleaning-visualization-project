@@ -225,12 +225,6 @@ Through this project, I gained hands-on experience in using Python libraries suc
 
 ## 👩‍💻 Author
 
-**[Your Name]**
+**Rajiya**
 
 Data Analysis & Visualization Project
-
----
-
-## 📜 License
-
-This project is created for educational and learning purposes.
